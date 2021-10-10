@@ -1,0 +1,100 @@
+{
+    "Dziadek Mietek": {
+        "date": "1/1",
+        "type": "imieniny"
+    },
+    "Szwagru": {
+        "date": "12/1",
+        "type": "urodziny"
+    },
+    "Paulina - siostra": {
+        "date": "21/1",
+        "type": "urodziny"
+    },
+    "Dada Mietek": {
+        "date": "13/2",
+        "type": "urodziny"
+    },
+    "Coach": {
+        "date": "20/2",
+        "type": "urodziny"
+    },
+    "Byla Byla": {
+        "date": "22/2",
+        "type": "urodziny"
+    },
+    "Kamila": {
+        "date": "6/3",
+        "type": "urodziny"
+    },
+    "Leszczu": {
+        "date": "16/3",
+        "type": "urodziny"
+    },
+    "Aga Tusz": {
+        "date": "18/3",
+        "type": "urodziny"
+    },
+    "Adaś": {
+        "date": "27/3",
+        "type": "urodziny"
+    },
+    "Zosia": {
+        "date": "4/4",
+        "type": "urodziny"
+    },
+    "Babcia Zosia": {
+        "date": "15/5",
+        "type": "imieniny"
+    },
+    "Gembi": {
+        "date": "27/5",
+        "type": "urodziny"
+    },
+    "Mama": {
+        "date": "15/6",
+        "type": "imieniny"
+    },
+    "Ania Czerniga": {
+        "date": "16/6",
+        "type": "urodziny"
+    },
+    "Mama Jolanta": {
+        "date": "15/7",
+        "type": "urodziny"
+    },
+    "Babcia Stenia": {
+        "date": "14/8",
+        "type": "urodziny"
+    },
+    "Kamila i Piotrek": {
+        "date": "23/8",
+        "type": "rocznica ślubu"
+    },
+    "Babcia Stefa": {
+        "date": "9/2",
+        "type": "imieniny"
+    },
+
+}
+
+
+
+
+// Mama_urodziny,7,15
+// Bartek_szwagier_urodziny,7,24
+// Babcia_Stenia_urodziny,8,14
+// Rocznica Kamili i Piotra,8,23
+// Babcia_Stenia_imieniny,9,2
+// Kamila_imieniny,9,16
+// Monika_urodziny,9,21
+// Byla_Byla_imieniny,9,29
+// Rocznica_Ani_i_Patryka,10,3
+// Rocznica_rodziców,10,4
+// Michelis_urodziny,10,28
+// Madzia_urodziny???,10,28
+// Zuzia_urodziny,11,6
+// Patryk_urodziny,11,7
+// Gembi_imieniny,11,11
+// Tata_imieniny,11,30
+// Tata_urodziny,12,13
