@@ -22,7 +22,7 @@ async function readDates() {
         if(month === actualMonth && day === actualDay) {
             const mailOptions = {
                 from: 'przemodev21@gmail.com',
-                to: 'przemoszadkowski@gmail.com',
+                to: 'przemoszadkowski@o2.pl',
                 subject: 'Ważna data!',
                 text: `Dziś ${person[0]} ma ${person[1].type}`
             };

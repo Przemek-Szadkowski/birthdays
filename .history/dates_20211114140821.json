@@ -107,7 +107,7 @@
         "date": "6/11",
         "type": "urodziny"
     },
-    "Patryka": {
+    "Patryk": {
         "date": "7/11",
         "type": "urodziny"
     },
@@ -121,6 +121,10 @@
     },
     "Tatko": {
         "date": "13/12",
+        "type": "urodziny"
+    },
+    "Test": {
+        "date": "14/11",
         "type": "urodziny"
     }
 }
