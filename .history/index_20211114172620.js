@@ -12,7 +12,7 @@ const transporter = nodemailer.createTransport({
         user: 'przemodev21@gmail.com',
         pass: 'SpiroAlfa21#*!'
     }
-});
+})
 
 async function readDates() {
     const dates = await readFile('./dates.json', 'utf-8');
