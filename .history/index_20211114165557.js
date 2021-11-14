@@ -1,6 +1,6 @@
 const { readFile } = require('fs').promises;
 // const nodemailer = require('nodemailer');
-const { SMTPClient } = require('emailjs');
+import { SMTPClient } from 'emailjs';
 
 const date = new Date();
 const actualMonth = String(date.getMonth() + 1);
