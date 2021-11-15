@@ -10,7 +10,7 @@ const transporter = nodemailer.createTransport({
     service: 'gmail',
     auth: {
         user: 'przemodev21@gmail.com',
-        pass: process.env['Gmail_Test_Pass']
+        pass: 'SpiroAlfa21#*!'
     }
 });
 
@@ -27,6 +27,7 @@ async function readDates() {
                 subject: 'Ważna data!',
                 text: `Dziś ${person[0]} ma ${person[1].type}`
             };
+            console.log(process.env);
             transporter.sendMail(mailOptions, function(error, info){
                 if (error) {
                   console.log(error);
